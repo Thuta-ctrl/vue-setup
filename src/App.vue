@@ -1,15 +1,26 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app">
+    <div class="declaration">
+      <h1>Hello App!</h1>
+      <span><router-link to="/">Home</router-link></span>
+      <span><router-link to="/rendering">Rendering</router-link></span>
+      <span><router-link to="/event">Event</router-link></span>
+      <span><router-link to="/class-style">Class Style</router-link></span>
+      <span><router-link to="/form-inputs">From Inputs</router-link></span>
+      <span><router-link to="/props-emits">Props Emits</router-link></span>
+      <span><router-link to="/provide-inject">Provide Inject</router-link></span>
+      <span><router-link to="/plugin">Install Plugin</router-link></span>
+      <span><router-link to="/vue-cli">Install Vue Using Cli</router-link></span>
+    </div>
+  <router-view></router-view>
+</div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
   }
 }
 </script>
@@ -19,8 +30,9 @@ export default {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+}
+.declaration {
+  text-align: center;
 }
 </style>
