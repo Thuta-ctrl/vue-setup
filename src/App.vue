@@ -11,6 +11,9 @@
       <span><router-link to="/provide-inject">Provide Inject</router-link></span>
       <span><router-link to="/plugin">Install Plugin</router-link></span>
       <span><router-link to="/vue-cli">Install Vue Using Cli</router-link></span>
+      <span><router-link to="/dropdown">Dropdown</router-link></span>
+      <span><router-link to="/modal">Modal</router-link></span>
+      <span><router-link to="/chart-js">Chart JS</router-link></span>
     </div>
   <router-view></router-view>
 </div>

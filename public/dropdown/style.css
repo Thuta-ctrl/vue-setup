@@ -1,0 +1,9 @@
+.hello-enter-active,
+.hello-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.hello-enter-from,
+.hello-leave-to {
+  opacity: 0;
+}

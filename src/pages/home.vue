@@ -1,16 +1,25 @@
 <template>
-  <h1>Most Used Features in Vue JS</h1>
+  <div>
+    <h1>Most Used Features in Vue JS</h1>
 
   <ul>
     <li v-for="(list,index) in lists" :key="index">
       {{ list.name }} =>  {{ list.desc }}
     </li>
   </ul>
+
+  <homedropdown/>
+  
+  </div>
 </template>
 
 <script>
+import DropdownOne from '@/components/dropdown/dropdownone.vue'
 export default {
   name: 'home-page',
+  components: {
+    'homedropdown': DropdownOne
+  },
   data() {
     return {
       lists: [

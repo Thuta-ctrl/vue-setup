@@ -9,6 +9,9 @@ import Plugin from '@/pages/lightbox.vue'
 import VueCli from '@/pages/vuecli.vue'
 import Slot from '@/pages/slot.vue'
 import Trans from '@/pages/transition.vue'
+import Dropdown from '@/pages/dropdown.vue'
+import Modal from '@/pages/modal.vue'
+import ChartJS from '@/pages/chartjs.vue'
 
 const routes = [
   { path: '/', component: Home },
@@ -21,7 +24,10 @@ const routes = [
   { path: '/plugin', component: Plugin },
   { path: '/vue-cli', component: VueCli },
   { path: '/slot', component: Slot },
-  { path: '/transition', component: Trans }
+  { path: '/transition', component: Trans },
+  { path: '/dropdown', component: Dropdown },
+  { path: '/modal', component: Modal },
+  { path: '/chart-js', component: ChartJS },
 ]  
 
 export default routes
