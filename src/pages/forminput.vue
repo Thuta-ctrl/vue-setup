@@ -111,8 +111,4 @@ export default {
   .input {
     margin: 10px 3px;
   }
-  div.myself {
-    display: flex;
-    justify-content: start;
-  }
 </style>
