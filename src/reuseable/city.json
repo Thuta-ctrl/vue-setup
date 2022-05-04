@@ -1,0 +1,2674 @@
+[
+  {
+    "id": 1,
+    "name": "အလုံ",
+    "eng_name": "Ahlon",
+    "alias_name": "Ahlon",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 2,
+    "name": "ဗဟန်း",
+    "eng_name": "Bahan",
+    "alias_name": "Bahan",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 3,
+    "name": "ဗိုလ်တထောင်",
+    "eng_name": "Botahtaung",
+    "alias_name": "Botahtaung",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 4,
+    "name": "ဒဂုံ",
+    "eng_name": "Dagon",
+    "alias_name": "Dagon",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 5,
+    "name": "ဒဂုံမြို့သစ်တောင်ပိုင်း",
+    "eng_name": "Dagon Myothit South",
+    "alias_name": "dagon-myothit-south",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 6,
+    "name": "ဒဂုံမြို့သစ်အရှေ့ပိုင်း",
+    "eng_name": "Dagon Myothit(East)",
+    "alias_name": "dagon-myothit-east",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 7,
+    "name": "ဒဂုံမြို့သစ်မြောက်ပိုင်း",
+    "eng_name": "Dagon Myothit(North)",
+    "alias_name": "dagon-myothit-north",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 8,
+    "name": "ဒဂုံမြို့သစ်ဆိပ်ကမ်း",
+    "eng_name": "Dagon Myothit(Seikkan)",
+    "alias_name": "dagon-myothit-seikkan",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 9,
+    "name": "ဒဂုံမြို့သစ်အနောက်ပိုင်း",
+    "eng_name": "Dagon Myothit(West)",
+    "alias_name": "dagon-myothit-west",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 10,
+    "name": "ဒလ",
+    "eng_name": "Dala",
+    "alias_name": "Dala",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 11,
+    "name": "ဒေါပုံ",
+    "eng_name": "Dawbon",
+    "alias_name": "Dawbon",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 12,
+    "name": "လှိုင်",
+    "eng_name": "Hlaing",
+    "alias_name": "Hlaing",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 13,
+    "name": "လှိုင်သာယာ",
+    "eng_name": "Hlaingtharya",
+    "alias_name": "Hlaingtharya",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 14,
+    "name": "လှည်းကူး",
+    "eng_name": "Hlegu",
+    "alias_name": "Hlegu",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 15,
+    "name": "မှော်ဘီ",
+    "eng_name": "Hmawbi",
+    "alias_name": "Hmawbi",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 16,
+    "name": "ထန်းတပင်",
+    "eng_name": "Htantabin",
+    "alias_name": "Htantabin",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 17,
+    "name": "အင်းစိန်",
+    "eng_name": "Insein",
+    "alias_name": "Insein",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 18,
+    "name": "ကမာရွတ်",
+    "eng_name": "Kamaryut",
+    "alias_name": "Kamaryut",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 19,
+    "name": "ကော့မှုး",
+    "eng_name": "Kawhmu",
+    "alias_name": "Kawhmu",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 20,
+    "name": "ခရမ်း",
+    "eng_name": "Kayan",
+    "alias_name": "Kayan",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 21,
+    "name": "ကွမ်းခြံကုန်း",
+    "eng_name": "Kungyangon",
+    "alias_name": "Kungyangon",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 22,
+    "name": "ကျောက်တံတား",
+    "eng_name": "Kyauktada",
+    "alias_name": "Kyauktada",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 23,
+    "name": "ကျောက်တန်း",
+    "eng_name": "Kyauktan",
+    "alias_name": "Kyauktan",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 24,
+    "name": "ကြည့်မြင်တိုင်",
+    "eng_name": "Kyeemyindaing",
+    "alias_name": "Kyeemyindaing",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 25,
+    "name": "လမ်းမတော်",
+    "eng_name": "Lanmadaw",
+    "alias_name": "Lanmadaw",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 26,
+    "name": "လသာ",
+    "eng_name": "Latha",
+    "alias_name": "Latha",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 27,
+    "name": "မရမ်းကုန်း",
+    "eng_name": "Mayangone",
+    "alias_name": "Mayangone",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 28,
+    "name": "မင်္ဂလာဒုံ",
+    "eng_name": "Mingaladon",
+    "alias_name": "Mingaladon",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 29,
+    "name": "မင်္ဂလာတောင်ညွှန့်",
+    "eng_name": "Mingalartaungnyunt",
+    "alias_name": "Mingalartaungnyunt",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 30,
+    "name": "မြောက်ဥက္ကလာ",
+    "eng_name": "North Okkalapa",
+    "alias_name": "north-okkalapa",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 31,
+    "name": "ပန်းပဲတန်း",
+    "eng_name": "Pabedan",
+    "alias_name": "Pabedan",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 32,
+    "name": "ပုလဲမြို့သစ်",
+    "eng_name": "Palae Myothit",
+    "alias_name": "palae-myothit",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 33,
+    "name": "ပုဇွန်တောင်",
+    "eng_name": "Pazundaung",
+    "alias_name": "Pazundaung",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 34,
+    "name": "စမ်းချောင်း",
+    "eng_name": "Sanchaung",
+    "alias_name": "Sanchaung",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 35,
+    "name": "ဆိပ်ကြီးခနောင်တို",
+    "eng_name": "Seikgyikanaungto",
+    "alias_name": "Seikgyikanaungto",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 36,
+    "name": "ရွှေပေါက်ကံ",
+    "eng_name": "Shwe Pauk Kan",
+    "alias_name": "shwe-pauk-kan",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 37,
+    "name": "ရွှေပြည်သာ",
+    "eng_name": "Shwepyithar",
+    "alias_name": "Shwepyithar",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 38,
+    "name": "တောင်ဥက္ကလာ",
+    "eng_name": "South Okkalapa",
+    "alias_name": "south-okkalapa",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 39,
+    "name": "တိုက်ကြီး",
+    "eng_name": "Taikkyi",
+    "alias_name": "Taikkyi",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 40,
+    "name": "တာမွေ",
+    "eng_name": "Tamwe",
+    "alias_name": "Tamwe",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 41,
+    "name": "သာကေတ",
+    "eng_name": "Thaketa",
+    "alias_name": "Thaketa",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 42,
+    "name": "သံလျင်",
+    "eng_name": "Thanlyin",
+    "alias_name": "Thanlyin",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 43,
+    "name": "သင်္ဃန်းကျွန်း",
+    "eng_name": "Thingangkuun",
+    "alias_name": "Thingangkuun",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 44,
+    "name": "သုံးခွ",
+    "eng_name": "Thongwa",
+    "alias_name": "Thongwa",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 45,
+    "name": "တွံတေး",
+    "eng_name": "Twantay",
+    "alias_name": "Twantay",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 46,
+    "name": "ရန်ကင်း",
+    "eng_name": "Yankin",
+    "alias_name": "Yankin",
+    "division_id": 1,
+    "status": null
+  },
+  {
+    "id": 47,
+    "name": "အမရပူရ",
+    "eng_name": "Amarapura",
+    "alias_name": "Amarapura",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 48,
+    "name": "အောင်မြေသာဇံ",
+    "eng_name": "Aungmyaythazan",
+    "alias_name": "Aungmyaythazan",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 49,
+    "name": "ချမ်းအေးသာဇံ",
+    "eng_name": "Chanayethazan",
+    "alias_name": "Chanayethazan",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 50,
+    "name": "ချမ်းမြသာစည်",
+    "eng_name": "Chanmyathazi",
+    "alias_name": "Chanmyathazi",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 51,
+    "name": "ကျောက်ပန်းတောင်း",
+    "eng_name": "Kyaukpadaung",
+    "alias_name": "Kyaukpadaung",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 52,
+    "name": "ကျောက်ဆည်",
+    "eng_name": "Kyaukse",
+    "alias_name": "Kyaukse",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 53,
+    "name": "လယ်ဝေး",
+    "eng_name": "Lewe",
+    "alias_name": "Lewe",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 54,
+    "name": "မတ္တရာ",
+    "eng_name": "Madaya",
+    "alias_name": "Madaya",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 55,
+    "name": "မြန်အောင်မြေ",
+    "eng_name": "Mahaaungmyay",
+    "alias_name": "Mahaaungmyay",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 56,
+    "name": "မဟာအောင်မြေ",
+    "eng_name": "Mahar Aung Myay",
+    "alias_name": "mahar-aung-myay",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 57,
+    "name": "မလှိုင်",
+    "eng_name": "Mahlaing",
+    "alias_name": "Mahlaing",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 58,
+    "name": "မိတ္ထီလာ",
+    "eng_name": "Meiktila",
+    "alias_name": "Meiktila",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 59,
+    "name": "မိုးကုတ်",
+    "eng_name": "Mogoke",
+    "alias_name": "Mogoke",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 60,
+    "name": "မြင်းခြံ",
+    "eng_name": "Myingyan",
+    "alias_name": "Myingyan",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 61,
+    "name": "မြစ်သား",
+    "eng_name": "Myittha",
+    "alias_name": "Myittha",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 62,
+    "name": "နွားထိုးကြီး",
+    "eng_name": "Natogyi",
+    "alias_name": "Natogyi",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 63,
+    "name": "ညောင်ဦး",
+    "eng_name": "Nyaung-U",
+    "alias_name": "Nyaung-U",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 64,
+    "name": "ပုသိမ်ကြီး",
+    "eng_name": "Patheingyi",
+    "alias_name": "Patheingyi",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 65,
+    "name": "ပျော်ဘွယ်",
+    "eng_name": "Pyawbwe",
+    "alias_name": "Pyawbwe",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 66,
+    "name": "ပြည်ကြီးတံခွန်",
+    "eng_name": "Pyigyitagon",
+    "alias_name": "Pyigyitagon",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 67,
+    "name": "ပျဉ်းမနား",
+    "eng_name": "Pyinmana",
+    "alias_name": "Pyinmana",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 68,
+    "name": "ပြင်ဦးလွင်",
+    "eng_name": "Pyinoolwin",
+    "alias_name": "Pyinoolwin",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 69,
+    "name": "စဉ့်ကူး",
+    "eng_name": "Singu",
+    "alias_name": "Singu",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 70,
+    "name": "စဉ့်ကိုင်",
+    "eng_name": "Sintgaing",
+    "alias_name": "Sintgaing",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 71,
+    "name": "တံတာဦး",
+    "eng_name": "Tada-U",
+    "alias_name": "Tada-U",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 72,
+    "name": "တပ်ကုန်း",
+    "eng_name": "Tatkon",
+    "alias_name": "Tatkon",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 73,
+    "name": "တောင်သာ",
+    "eng_name": "Taungtha",
+    "alias_name": "Taungtha",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 74,
+    "name": "သပိတ်ကျင်း",
+    "eng_name": "Thabeikkyin",
+    "alias_name": "Thabeikkyin",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 75,
+    "name": "သာစည်",
+    "eng_name": "Thazi",
+    "alias_name": "Thazi",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 76,
+    "name": "ဝမ်းတွင်း",
+    "eng_name": "Wundwin",
+    "alias_name": "Wundwin",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 77,
+    "name": "ရမည်းသင်း",
+    "eng_name": "Yamethin",
+    "alias_name": "Yamethin",
+    "division_id": 2,
+    "status": null
+  },
+  {
+    "id": 78,
+    "name": "ဘောဂသိဒ္ဓိ",
+    "eng_name": "Bawgatheiddhi",
+    "alias_name": "Bawgatheiddhi",
+    "division_id": 3,
+    "status": null
+  },
+  {
+    "id": 79,
+    "name": "ဒက္ခိဏသီရိ",
+    "eng_name": "Dekkhinathiri",
+    "alias_name": "Dekkhinathiri",
+    "division_id": 3,
+    "status": null
+  },
+  {
+    "id": 80,
+    "name": "မင်္ဂလာသိဒ္ဓိ",
+    "eng_name": "Mingalatheiddhi",
+    "alias_name": "Mingalatheiddhi",
+    "division_id": 3,
+    "status": null
+  },
+  {
+    "id": 81,
+    "name": "ဥတ္တရသီရိ",
+    "eng_name": "Ottarathiri",
+    "alias_name": "Ottarathiri",
+    "division_id": 3,
+    "status": null
+  },
+  {
+    "id": 82,
+    "name": "ပုပ္ပသီရိ",
+    "eng_name": "Pobbathiri",
+    "alias_name": "Pobbathiri",
+    "division_id": 3,
+    "status": null
+  },
+  {
+    "id": 83,
+    "name": "ပညာသိဒ္ဓိ",
+    "eng_name": "Pyinnyatheddhi",
+    "alias_name": "Pyinnyatheddhi",
+    "division_id": 3,
+    "status": null
+  },
+  {
+    "id": 84,
+    "name": "ဇမ္ဗူသီရိ",
+    "eng_name": "Zabuthiri",
+    "alias_name": "Zabuthiri",
+    "division_id": 3,
+    "status": null
+  },
+  {
+    "id": 85,
+    "name": "ဇေယျသိဒ္ဓိ",
+    "eng_name": "Zeyatheiddhi",
+    "alias_name": "Zeyatheiddhi",
+    "division_id": 3,
+    "status": null
+  },
+  {
+    "id": 86,
+    "name": "ဇေယျာသီရိ",
+    "eng_name": "Zeyathiri",
+    "alias_name": "Zeyathiri",
+    "division_id": 3,
+    "status": null
+  },
+  {
+    "id": 87,
+    "name": "ဘိုကလေး",
+    "eng_name": "Bogale",
+    "alias_name": "Bogale",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 88,
+    "name": "ဓနုဖြူ",
+    "eng_name": "Danubyu",
+    "alias_name": "Danubyu",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 89,
+    "name": "အိမ်မဲ",
+    "eng_name": "Einme",
+    "alias_name": "Einme",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 90,
+    "name": "ဟင်္သာတ",
+    "eng_name": "Hinthada",
+    "alias_name": "Hinthada",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 91,
+    "name": "အင်ဂပူ",
+    "eng_name": "Ingapu",
+    "alias_name": "Ingapu",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 92,
+    "name": "ကန်ကြီးထောင့်",
+    "eng_name": "Kangyidaunt",
+    "alias_name": "Kangyidaunt",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 93,
+    "name": "ကျိုက်လတ်",
+    "eng_name": "Kyaiklat",
+    "alias_name": "Kyaiklat",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 94,
+    "name": "ကြံခင်း",
+    "eng_name": "Kyangin",
+    "alias_name": "Kyangin",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 95,
+    "name": "ကျောင်းကုန်း",
+    "eng_name": "Kyaunggon",
+    "alias_name": "Kyaunggon",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 96,
+    "name": "ကျုံပျော်",
+    "eng_name": "Kyonpyaw",
+    "alias_name": "Kyonpyaw",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 97,
+    "name": "လပွတ္တာ",
+    "eng_name": "Labutta",
+    "alias_name": "Labutta",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 98,
+    "name": "လေးမျက်နှာ",
+    "eng_name": "Lemyethna",
+    "alias_name": "Lemyethna",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 99,
+    "name": "မအူပင်",
+    "eng_name": "Maubin",
+    "alias_name": "Maubin",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 100,
+    "name": "မော်လမြိုင်ကျွန်း",
+    "eng_name": "Mawlamyinegyun",
+    "alias_name": "Mawlamyinegyun",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 101,
+    "name": "မြန်အောင်",
+    "eng_name": "Myanaung",
+    "alias_name": "Myanaung",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 102,
+    "name": "မြောင်းမြ",
+    "eng_name": "Myaungmya",
+    "alias_name": "Myaungmya",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 103,
+    "name": "ငပုတော",
+    "eng_name": "Ngapudaw",
+    "alias_name": "Ngapudaw",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 104,
+    "name": "ငွေဆောင်",
+    "eng_name": "Ngwe Saung",
+    "alias_name": "ngwe-saung",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 105,
+    "name": "ညောင်တုန်း",
+    "eng_name": "Nyaungdon",
+    "alias_name": "Nyaungdon",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 106,
+    "name": "ပန်းတနော်",
+    "eng_name": "Pantanaw",
+    "alias_name": "Pantanaw",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 107,
+    "name": "ပုသိမ်",
+    "eng_name": "Pathein",
+    "alias_name": "Pathein",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 108,
+    "name": "ဖျာပုံ",
+    "eng_name": "Pyapon",
+    "alias_name": "Pyapon",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 109,
+    "name": "သာပေါင်း",
+    "eng_name": "Thabaung",
+    "alias_name": "Thabaung",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 110,
+    "name": "တွမ်းဇံ",
+    "eng_name": "Tonzang",
+    "alias_name": "Tonzang",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 111,
+    "name": "ဝါးခယ်မ",
+    "eng_name": "Wakema",
+    "alias_name": "Wakema",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 112,
+    "name": "ရေကြည်",
+    "eng_name": "Yegyi",
+    "alias_name": "Yegyi",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 113,
+    "name": "ဇလွန်",
+    "eng_name": "Zalun",
+    "alias_name": "Zalun",
+    "division_id": 4,
+    "status": null
+  },
+  {
+    "id": 114,
+    "name": "ပဲခူး",
+    "eng_name": "Bago",
+    "alias_name": "Bago",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 115,
+    "name": "ဒိုက်ဦး",
+    "eng_name": "Daik-U",
+    "alias_name": "Daik-U",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 116,
+    "name": "ကြို့ပင်ကောက်",
+    "eng_name": "Gyobingauk",
+    "alias_name": "Gyobingauk",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 117,
+    "name": "ကဝ",
+    "eng_name": "Kawa",
+    "alias_name": "Kawa",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 118,
+    "name": "ကျောက်ကြီး",
+    "eng_name": "Kyaukkyi",
+    "alias_name": "Kyaukkyi",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 119,
+    "name": "ကျောက်တံခါး",
+    "eng_name": "Kyauktaga",
+    "alias_name": "Kyauktaga",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 120,
+    "name": "လက်ပံတန်း",
+    "eng_name": "Letpadan",
+    "alias_name": "Letpadan",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 121,
+    "name": "မင်းလှ",
+    "eng_name": "Minhla",
+    "alias_name": "Minhla",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 122,
+    "name": "မိုးညို",
+    "eng_name": "Monyo",
+    "alias_name": "Monyo",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 123,
+    "name": "နတ်တလင်း",
+    "eng_name": "Nattalin",
+    "alias_name": "Nattalin",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 124,
+    "name": "ညောင်လေးပင်",
+    "eng_name": "Nyaunglebin",
+    "alias_name": "Nyaunglebin",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 125,
+    "name": "အုတ်ဖို",
+    "eng_name": "Okpho",
+    "alias_name": "Okpho",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 126,
+    "name": "အုတ်တွင်း",
+    "eng_name": "Oktwin",
+    "alias_name": "Oktwin",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 127,
+    "name": "ပန်းတောင်း",
+    "eng_name": "Padaung",
+    "alias_name": "Padaung",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 128,
+    "name": "ပေါက်ခေါင်း",
+    "eng_name": "Pauk Kaung",
+    "alias_name": "pauk-kaung",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 129,
+    "name": "ပေါင်းတည်",
+    "eng_name": "Paungde",
+    "alias_name": "Paungde",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 130,
+    "name": "ဖြူး",
+    "eng_name": "Phyu",
+    "alias_name": "Phyu",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 131,
+    "name": "ပြည်",
+    "eng_name": "Pyay",
+    "alias_name": "Pyay",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 132,
+    "name": "ရွှေတောင်",
+    "eng_name": "Shwedaung",
+    "alias_name": "Shwedaung",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 133,
+    "name": "ရွှေကျင်",
+    "eng_name": "Shwegyin",
+    "alias_name": "Shwegyin",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 134,
+    "name": "ထန်းတပင်",
+    "eng_name": "Tantabin",
+    "alias_name": "Tantabin",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 135,
+    "name": "တောင်ငူ",
+    "eng_name": "Taungoo",
+    "alias_name": "Taungoo",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 136,
+    "name": "သနပ်ပင်",
+    "eng_name": "Thanatpin",
+    "alias_name": "Thanatpin",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 137,
+    "name": "သာယာဝတီ",
+    "eng_name": "Thayarwady",
+    "alias_name": "Thayarwady",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 138,
+    "name": "သဲကုန်း",
+    "eng_name": "Thegon",
+    "alias_name": "Thegon",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 139,
+    "name": "ဝေါ",
+    "eng_name": "Waw",
+    "alias_name": "Waw",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 140,
+    "name": "ရေတာရှည်",
+    "eng_name": "Yedashe",
+    "alias_name": "Yedashe",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 141,
+    "name": "ဇီးကုန်း",
+    "eng_name": "Zigon",
+    "alias_name": "Zigon",
+    "division_id": 5,
+    "status": null
+  },
+  {
+    "id": 142,
+    "name": "ဖလန်း",
+    "eng_name": "Falam",
+    "alias_name": "Falam",
+    "division_id": 6,
+    "status": null
+  },
+  {
+    "id": 143,
+    "name": "ဟားခါး",
+    "eng_name": "Hakha",
+    "alias_name": "Hakha",
+    "division_id": 6,
+    "status": null
+  },
+  {
+    "id": 144,
+    "name": "ထန်တလန်",
+    "eng_name": "Htantlang",
+    "alias_name": "Htantlang",
+    "division_id": 6,
+    "status": null
+  },
+  {
+    "id": 145,
+    "name": "ကန်ပက်လက်",
+    "eng_name": "Kanpetlet",
+    "alias_name": "Kanpetlet",
+    "division_id": 6,
+    "status": null
+  },
+  {
+    "id": 146,
+    "name": "မတူပီ",
+    "eng_name": "Madupi",
+    "alias_name": "Madupi",
+    "division_id": 6,
+    "status": null
+  },
+  {
+    "id": 147,
+    "name": "မင်းတပ်",
+    "eng_name": "Mindat",
+    "alias_name": "Mindat",
+    "division_id": 6,
+    "status": null
+  },
+  {
+    "id": 148,
+    "name": "ပလက်ဝ",
+    "eng_name": "Paletwa",
+    "alias_name": "Paletwa",
+    "division_id": 6,
+    "status": null
+  },
+  {
+    "id": 149,
+    "name": "တီးတိန်",
+    "eng_name": "Tiddim",
+    "alias_name": "Tiddim",
+    "division_id": 6,
+    "status": null
+  },
+  {
+    "id": 150,
+    "name": "တွမ်းဇံ",
+    "eng_name": "Tonzang",
+    "alias_name": "Tonzang",
+    "division_id": 6,
+    "status": null
+  },
+  {
+    "id": 151,
+    "name": "ဗန်းမော်",
+    "eng_name": "Bhamo",
+    "alias_name": "Bhamo",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 152,
+    "name": "ချီဖွေ",
+    "eng_name": "Chipwi",
+    "alias_name": "Chipwi",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 153,
+    "name": "ဖားကန့်",
+    "eng_name": "Hpakan",
+    "alias_name": "Hpakan",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 154,
+    "name": "အင်ဂျန်းယန်",
+    "eng_name": "Injangyang",
+    "alias_name": "Injangyang",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 155,
+    "name": "ခေါင်လံဖူး",
+    "eng_name": "Kawnglanghpu",
+    "alias_name": "Kawnglanghpu",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 156,
+    "name": "မချမ်းဘော",
+    "eng_name": "Machanbaw",
+    "alias_name": "Machanbaw",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 157,
+    "name": "မံစီ",
+    "eng_name": "Mansi",
+    "alias_name": "Mansi",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 158,
+    "name": "မိုးကောင်း",
+    "eng_name": "Mogaung",
+    "alias_name": "Mogaung",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 159,
+    "name": "မိုးညှင်း",
+    "eng_name": "Mohnyin",
+    "alias_name": "Mohnyin",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 160,
+    "name": "မိုးမောက်",
+    "eng_name": "Momauk",
+    "alias_name": "Momauk",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 161,
+    "name": "မြစ်ကြီးနား",
+    "eng_name": "Myitkyina",
+    "alias_name": "Myitkyina",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 162,
+    "name": "နောင်မွန်း",
+    "eng_name": "Nogmung",
+    "alias_name": "Nogmung",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 163,
+    "name": "ပူတာအို",
+    "eng_name": "Puta-O",
+    "alias_name": "Puta-O",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 164,
+    "name": "ရွှေကူ",
+    "eng_name": "Shwegu",
+    "alias_name": "Shwegu",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 165,
+    "name": "ဆွမ်ပရာဘွမ်",
+    "eng_name": "Sumprabum",
+    "alias_name": "Sumprabum",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 166,
+    "name": "တနိုင်း",
+    "eng_name": "Tanai",
+    "alias_name": "Tanai",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 167,
+    "name": "ဆော့လော်",
+    "eng_name": "Tsawlaw",
+    "alias_name": "Tsawlaw",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 168,
+    "name": "ဝိုင်းမော်",
+    "eng_name": "Waingmaw",
+    "alias_name": "Waingmaw",
+    "division_id": 7,
+    "status": null
+  },
+  {
+    "id": 169,
+    "name": "ဘောလခဲ",
+    "eng_name": "Bawlakhe",
+    "alias_name": "Bawlakhe",
+    "division_id": 8,
+    "status": null
+  },
+  {
+    "id": 170,
+    "name": "ဒီမောဆို",
+    "eng_name": "Demoso",
+    "alias_name": "Demoso",
+    "division_id": 8,
+    "status": null
+  },
+  {
+    "id": 171,
+    "name": "ဖားဆောင်း",
+    "eng_name": "Hpasawng",
+    "alias_name": "Hpasawng",
+    "division_id": 8,
+    "status": null
+  },
+  {
+    "id": 172,
+    "name": "ဖရှုးဆိုး",
+    "eng_name": "Hpruso",
+    "alias_name": "Hpruso",
+    "division_id": 8,
+    "status": null
+  },
+  {
+    "id": 173,
+    "name": "လွိုင်ကော်",
+    "eng_name": "Loikaw",
+    "alias_name": "Loikaw",
+    "division_id": 8,
+    "status": null
+  },
+  {
+    "id": 174,
+    "name": "မယ်ဆဲ့",
+    "eng_name": "Mese",
+    "alias_name": "Mese",
+    "division_id": 8,
+    "status": null
+  },
+  {
+    "id": 175,
+    "name": "ရှားတော",
+    "eng_name": "Shadaw",
+    "alias_name": "Shadaw",
+    "division_id": 8,
+    "status": null
+  },
+  {
+    "id": 176,
+    "name": "လှိုင်းဘွဲ့",
+    "eng_name": "Hlaingbwe",
+    "alias_name": "Hlaingbwe",
+    "division_id": 9,
+    "status": null
+  },
+  {
+    "id": 177,
+    "name": "ဘားအံ",
+    "eng_name": "Hpa-An",
+    "alias_name": "Hpa-An",
+    "division_id": 9,
+    "status": null
+  },
+  {
+    "id": 178,
+    "name": "ဖာပွန်",
+    "eng_name": "Hpapun",
+    "alias_name": "Hpapun",
+    "division_id": 9,
+    "status": null
+  },
+  {
+    "id": 179,
+    "name": "ကော့ကရိတ်",
+    "eng_name": "Kawkareik",
+    "alias_name": "Kawkareik",
+    "division_id": 9,
+    "status": null
+  },
+  {
+    "id": 180,
+    "name": "ကြာအင်းဆိပ်ကြီး",
+    "eng_name": "Kyain Seikgyi",
+    "alias_name": "kyain-seikgyi",
+    "division_id": 9,
+    "status": null
+  },
+  {
+    "id": 181,
+    "name": "မြဝတီ",
+    "eng_name": "Myawaddy",
+    "alias_name": "Myawaddy",
+    "division_id": 9,
+    "status": null
+  },
+  {
+    "id": 182,
+    "name": "သံတောင်",
+    "eng_name": "Thandaung",
+    "alias_name": "Thandaung",
+    "division_id": 9,
+    "status": null
+  },
+  {
+    "id": 183,
+    "name": "အောင်လံ",
+    "eng_name": "Aunglan",
+    "alias_name": "Aunglan",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 184,
+    "name": "ချောက်",
+    "eng_name": "Chauk",
+    "alias_name": "Chauk",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 185,
+    "name": "ဂန့်ဂေါ",
+    "eng_name": "Gangaw",
+    "alias_name": "Gangaw",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 186,
+    "name": "ကံမ",
+    "eng_name": "Kamma",
+    "alias_name": "Kamma",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 187,
+    "name": "မကွေး",
+    "eng_name": "Magway",
+    "alias_name": "Magway",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 188,
+    "name": "မင်းဘူး",
+    "eng_name": "Minbu",
+    "alias_name": "Minbu",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 189,
+    "name": "မင်းတုန်း",
+    "eng_name": "Mindon",
+    "alias_name": "Mindon",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 190,
+    "name": "မင်းလှ",
+    "eng_name": "Minhla",
+    "alias_name": "Minhla",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 191,
+    "name": "မြိုင်",
+    "eng_name": "Myaing",
+    "alias_name": "Myaing",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 192,
+    "name": "မြို့သစ်",
+    "eng_name": "Myothit",
+    "alias_name": "Myothit",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 193,
+    "name": "နတ်မောက်",
+    "eng_name": "Natmauk",
+    "alias_name": "Natmauk",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 194,
+    "name": "ငဖဲ",
+    "eng_name": "Ngape",
+    "alias_name": "Ngape",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 195,
+    "name": "ပခုက္ကူ",
+    "eng_name": "Pakokku",
+    "alias_name": "Pakokku",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 196,
+    "name": "ပေါက်",
+    "eng_name": "Pauk",
+    "alias_name": "Pauk",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 197,
+    "name": "ပွင့်ဖြူ",
+    "eng_name": "Pwintbyu",
+    "alias_name": "Pwintbyu",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 198,
+    "name": "စလင်း",
+    "eng_name": "Salin",
+    "alias_name": "Salin",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 199,
+    "name": "ဆော",
+    "eng_name": "Saw",
+    "alias_name": "Saw",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 200,
+    "name": "ဆိပ်ဖြူ",
+    "eng_name": "Seikphyu",
+    "alias_name": "Seikphyu",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 201,
+    "name": "စေတုတ္တရာ",
+    "eng_name": "Sidoktaya",
+    "alias_name": "Sidoktaya",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 202,
+    "name": "ဆင်ပေါင်ဝဲ",
+    "eng_name": "Sinbaungwe",
+    "alias_name": "Sinbaungwe",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 203,
+    "name": "တောင်တွင်းကြီး",
+    "eng_name": "Taungdwingyi",
+    "alias_name": "Taungdwingyi",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 204,
+    "name": "သရပ်",
+    "eng_name": "Thayet",
+    "alias_name": "Thayet",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 205,
+    "name": "ထီးလင်း",
+    "eng_name": "Tilin",
+    "alias_name": "Tilin",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 206,
+    "name": "ရေနံချောင်း",
+    "eng_name": "Yenangyaung",
+    "alias_name": "Yenangyaung",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 207,
+    "name": "ရေစကြို",
+    "eng_name": "Yesagyo",
+    "alias_name": "Yesagyo",
+    "division_id": 10,
+    "status": null
+  },
+  {
+    "id": 208,
+    "name": "ဘီးလင်း",
+    "eng_name": "Bilin",
+    "alias_name": "Bilin",
+    "division_id": 11,
+    "status": null
+  },
+  {
+    "id": 209,
+    "name": "ချောင်းဆုံ",
+    "eng_name": "Chaungzon",
+    "alias_name": "Chaungzon",
+    "division_id": 11,
+    "status": null
+  },
+  {
+    "id": 210,
+    "name": "ကျိုက်မရော",
+    "eng_name": "Kyaikmaraw",
+    "alias_name": "Kyaikmaraw",
+    "division_id": 11,
+    "status": null
+  },
+  {
+    "id": 211,
+    "name": "ကျိုက်ထို",
+    "eng_name": "Kyaikto",
+    "alias_name": "Kyaikto",
+    "division_id": 11,
+    "status": null
+  },
+  {
+    "id": 212,
+    "name": "ကျောက်ဖြူ",
+    "eng_name": "Kyaukpyu",
+    "alias_name": "Kyaukpyu",
+    "division_id": 11,
+    "status": null
+  },
+  {
+    "id": 213,
+    "name": "မော်လမြိုင်",
+    "eng_name": "Mawlamyine",
+    "alias_name": "Mawlamyine",
+    "division_id": 11,
+    "status": null
+  },
+  {
+    "id": 214,
+    "name": "မုဒုံ",
+    "eng_name": "Mudon",
+    "alias_name": "Mudon",
+    "division_id": 11,
+    "status": null
+  },
+  {
+    "id": 215,
+    "name": "ပေါင်",
+    "eng_name": "Paung",
+    "alias_name": "Paung",
+    "division_id": 11,
+    "status": null
+  },
+  {
+    "id": 216,
+    "name": "သံဖြူဇရပ်",
+    "eng_name": "Thanbyuzayat",
+    "alias_name": "Thanbyuzayat",
+    "division_id": 11,
+    "status": null
+  },
+  {
+    "id": 217,
+    "name": "သထုံ",
+    "eng_name": "Thaton",
+    "alias_name": "Thaton",
+    "division_id": 11,
+    "status": null
+  },
+  {
+    "id": 218,
+    "name": "ရေး",
+    "eng_name": "Ye",
+    "alias_name": "Ye",
+    "division_id": 11,
+    "status": null
+  },
+  {
+    "id": 219,
+    "name": "အမ်း",
+    "eng_name": "Ann",
+    "alias_name": "Ann",
+    "division_id": 12,
+    "status": null
+  },
+  {
+    "id": 220,
+    "name": "ဘူးသီးတောင်",
+    "eng_name": "Buthidaung",
+    "alias_name": "Buthidaung",
+    "division_id": 12,
+    "status": null
+  },
+  {
+    "id": 221,
+    "name": "ဂွ",
+    "eng_name": "Gwa",
+    "alias_name": "Gwa",
+    "division_id": 12,
+    "status": null
+  },
+  {
+    "id": 222,
+    "name": "ကျောက်တော်",
+    "eng_name": "Kyauktaw",
+    "alias_name": "Kyauktaw",
+    "division_id": 12,
+    "status": null
+  },
+  {
+    "id": 223,
+    "name": "မောင်တော",
+    "eng_name": "Maungdaw",
+    "alias_name": "Maungdaw",
+    "division_id": 12,
+    "status": null
+  },
+  {
+    "id": 224,
+    "name": "မင်းပြား",
+    "eng_name": "Minbya",
+    "alias_name": "Minbya",
+    "division_id": 12,
+    "status": null
+  },
+  {
+    "id": 225,
+    "name": "မြောက်ဦး",
+    "eng_name": "Mrauk-U",
+    "alias_name": "Mrauk-U",
+    "division_id": 12,
+    "status": null
+  },
+  {
+    "id": 226,
+    "name": "မာန်အောင်",
+    "eng_name": "Munaung",
+    "alias_name": "Munaung",
+    "division_id": 12,
+    "status": null
+  },
+  {
+    "id": 227,
+    "name": "မြေပုံ",
+    "eng_name": "Myebon",
+    "alias_name": "Myebon",
+    "division_id": 12,
+    "status": null
+  },
+  {
+    "id": 228,
+    "name": "ပေါက်တော",
+    "eng_name": "Pauktaw",
+    "alias_name": "Pauktaw",
+    "division_id": 12,
+    "status": null
+  },
+  {
+    "id": 229,
+    "name": "ပုဏားကျွန်း",
+    "eng_name": "Ponnagyun",
+    "alias_name": "Ponnagyun",
+    "division_id": 12,
+    "status": null
+  },
+  {
+    "id": 230,
+    "name": "ရမ်းဗြဲ",
+    "eng_name": "Ramree",
+    "alias_name": "Ramree",
+    "division_id": 12,
+    "status": null
+  },
+  {
+    "id": 231,
+    "name": "ရသေ့တောင်",
+    "eng_name": "Rathedaung",
+    "alias_name": "Rathedaung",
+    "division_id": 12,
+    "status": null
+  },
+  {
+    "id": 232,
+    "name": "စစ်တွေ",
+    "eng_name": "Sittwe",
+    "alias_name": "Sittwe",
+    "division_id": 12,
+    "status": null
+  },
+  {
+    "id": 233,
+    "name": "သံတွဲ",
+    "eng_name": "Thandwe",
+    "alias_name": "Thandwe",
+    "division_id": 12,
+    "status": null
+  },
+  {
+    "id": 234,
+    "name": "တောင်ကုတ်",
+    "eng_name": "Toungup",
+    "alias_name": "Toungup",
+    "division_id": 12,
+    "status": null
+  },
+  {
+    "id": 235,
+    "name": "အရာတော်",
+    "eng_name": "Ayadaw",
+    "alias_name": "Ayadaw",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 236,
+    "name": "ဗန်းမောက်",
+    "eng_name": "Banmauk",
+    "alias_name": "Banmauk",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 237,
+    "name": "မုတလင်",
+    "eng_name": "Budalin",
+    "alias_name": "Budalin",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 238,
+    "name": "ချောင်ဦး",
+    "eng_name": "Chaung-U",
+    "alias_name": "Chaung-U",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 239,
+    "name": "ခန္တီး",
+    "eng_name": "Hkamti",
+    "alias_name": "Hkamti",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 240,
+    "name": "ဟုမ္မလင်း",
+    "eng_name": "Homalin",
+    "alias_name": "Homalin",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 241,
+    "name": "အင်းတော်",
+    "eng_name": "Indaw",
+    "alias_name": "Indaw",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 242,
+    "name": "ကလေး",
+    "eng_name": "Kale",
+    "alias_name": "Kale",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 243,
+    "name": "ကလေးဝ",
+    "eng_name": "Kalewa",
+    "alias_name": "Kalewa",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 244,
+    "name": "ကန့်ဘလူ",
+    "eng_name": "kanbalu",
+    "alias_name": "kanbalu",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 245,
+    "name": "ကနီး",
+    "eng_name": "Kani",
+    "alias_name": "Kani",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 246,
+    "name": "ကသာ",
+    "eng_name": "Katha",
+    "alias_name": "Katha",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 247,
+    "name": "ကောလင်း",
+    "eng_name": "Kawlin",
+    "alias_name": "Kawlin",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 248,
+    "name": "ခင်ဦး",
+    "eng_name": "Khin-U",
+    "alias_name": "Khin-U",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 249,
+    "name": "ကျွန်းလှ",
+    "eng_name": "Kyunhla",
+    "alias_name": "Kyunhla",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 250,
+    "name": "လဟယ်",
+    "eng_name": "Lahe",
+    "alias_name": "Lahe",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 251,
+    "name": "မော်လိုက်",
+    "eng_name": "Mawlaik",
+    "alias_name": "Mawlaik",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 252,
+    "name": "မင်းကင်း",
+    "eng_name": "Mingin",
+    "alias_name": "Mingin",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 253,
+    "name": "မုံရွာ",
+    "eng_name": "Monywa",
+    "alias_name": "Monywa",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 254,
+    "name": "မြိုင်",
+    "eng_name": "Myaung",
+    "alias_name": "Myaung",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 255,
+    "name": "မြင်းမူ",
+    "eng_name": "Myinmu",
+    "alias_name": "Myinmu",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 256,
+    "name": "နန်းယွန်း",
+    "eng_name": "Nanyun",
+    "alias_name": "Nanyun",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 257,
+    "name": "ငန်းဇွန်",
+    "eng_name": "Nganzun",
+    "alias_name": "nganzun",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 258,
+    "name": "ပုလဲ",
+    "eng_name": "Pale",
+    "alias_name": "Pale",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 259,
+    "name": "ဖောင်းပြင်",
+    "eng_name": "Paungbyin",
+    "alias_name": "Paungbyin",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 260,
+    "name": "ပင်လယ်ဘူး",
+    "eng_name": "Pinlebu",
+    "alias_name": "Pinlebu",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 261,
+    "name": "စကိုင်း",
+    "eng_name": "Sagaing",
+    "alias_name": "Sagaing",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 262,
+    "name": "ဆားလင်းကြီး",
+    "eng_name": "Salingyi",
+    "alias_name": "Salingyi",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 263,
+    "name": "ရွှေဘို",
+    "eng_name": "Shwebo",
+    "alias_name": "Shwebo",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 264,
+    "name": "ဒီပဲယင်း",
+    "eng_name": "Tabayin",
+    "alias_name": "Tabayin",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 265,
+    "name": "တမူး",
+    "eng_name": "Tamu",
+    "alias_name": "Tamu",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 266,
+    "name": "တန့်ဆည်",
+    "eng_name": "Taze",
+    "alias_name": "Taze",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 267,
+    "name": "ထီးချိုင့်",
+    "eng_name": "Tigyaing",
+    "alias_name": "Tigyaing",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 268,
+    "name": "ဝက်လက်",
+    "eng_name": "Wetlet",
+    "alias_name": "Wetlet",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 269,
+    "name": "ဝန်းသို",
+    "eng_name": "Wuntho",
+    "alias_name": "Wuntho",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 270,
+    "name": "ရေဦး",
+    "eng_name": "Ye-U",
+    "alias_name": "Ye-U",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 271,
+    "name": "ယင်းမာပင်",
+    "eng_name": "Yinmabin",
+    "alias_name": "Yinmabin",
+    "division_id": 13,
+    "status": null
+  },
+  {
+    "id": 272,
+    "name": "ဟိုပန်",
+    "eng_name": "Hopang",
+    "alias_name": "Hopang",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 273,
+    "name": "ဟိုပုံး",
+    "eng_name": "Hopong",
+    "alias_name": "Hopong",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 274,
+    "name": "သိန္နီ",
+    "eng_name": "Hseni",
+    "alias_name": "Hseni",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 275,
+    "name": "ဆီဆိုင်",
+    "eng_name": "Hsihseng",
+    "alias_name": "Hsihseng",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 276,
+    "name": "သီပေါ",
+    "eng_name": "Hsipaw",
+    "alias_name": "Hsipaw",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 277,
+    "name": "ကလော",
+    "eng_name": "Kalaw",
+    "alias_name": "Kalaw",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 278,
+    "name": "ကျိုင်းတုံ",
+    "eng_name": "Kengtung",
+    "alias_name": "Kengtung",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 279,
+    "name": "ကုန်းကြမ်း",
+    "eng_name": "Konkyan",
+    "alias_name": "Konkyan",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 280,
+    "name": "ကွန်ဟိန်း",
+    "eng_name": "Kunhing",
+    "alias_name": "Kunhing",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 281,
+    "name": "ကွမ်းလုံ",
+    "eng_name": "Kunlong",
+    "alias_name": "Kunlong",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 282,
+    "name": "ကွတ်ခိုင်",
+    "eng_name": "Kutkai",
+    "alias_name": "Kutkai",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 283,
+    "name": "ကျေးသီးမံစံ",
+    "eng_name": "Kyethi",
+    "alias_name": "Kyethi",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 284,
+    "name": "ကျောက်မဲ",
+    "eng_name": "Kyuakme",
+    "alias_name": "Kyuakme",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 285,
+    "name": "လဲချား",
+    "eng_name": "Laihka",
+    "alias_name": "Laihka",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 286,
+    "name": "လင်းခေး",
+    "eng_name": "Langkho",
+    "alias_name": "Langkho",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 287,
+    "name": "လားရှိုး",
+    "eng_name": "Lashio",
+    "alias_name": "Lashio",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 288,
+    "name": "လောက်ကိုင်",
+    "eng_name": "Laukkaing",
+    "alias_name": "Laukkaing",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 289,
+    "name": "လွိုင်လင်",
+    "eng_name": "Loilen",
+    "alias_name": "Loilen",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 290,
+    "name": "မဘိန်း",
+    "eng_name": "Mabein",
+    "alias_name": "Mabein",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 291,
+    "name": "မက်မန်း",
+    "eng_name": "Matman",
+    "alias_name": "Matman",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 292,
+    "name": "မောက်မယ်",
+    "eng_name": "Mawkmai",
+    "alias_name": "Mawkmai",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 293,
+    "name": "မိုင်းဖြတ်",
+    "eng_name": "Monghpyak",
+    "alias_name": "Monghpyak",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 294,
+    "name": "မိုင်းဆတ်",
+    "eng_name": "Monghsat",
+    "alias_name": "Monghsat",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 295,
+    "name": "မိုင်းရူး",
+    "eng_name": "Monghsu",
+    "alias_name": "Monghsu",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 296,
+    "name": "မိုင်းကောင်း",
+    "eng_name": "Mongkaung",
+    "alias_name": "Mongkaung",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 297,
+    "name": "မိုင်းခတ်",
+    "eng_name": "Mongkhet",
+    "alias_name": "Mongkhet",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 298,
+    "name": "မိုင်းလား",
+    "eng_name": "Mongla",
+    "alias_name": "Mongla",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 299,
+    "name": "မိုင်းမော",
+    "eng_name": "Mongmao",
+    "alias_name": "Mongmao",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 300,
+    "name": "မိုးမိတ်",
+    "eng_name": "Mongmit",
+    "alias_name": "Mongmit",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 301,
+    "name": "မိုးနဲ",
+    "eng_name": "Mongnai",
+    "alias_name": "Mongnai",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 302,
+    "name": "မိုင်းပန်",
+    "eng_name": "Mongpan",
+    "alias_name": "Mongpan",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 303,
+    "name": "မိုင်းပြင်း",
+    "eng_name": "Mongping",
+    "alias_name": "Mongping",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 304,
+    "name": "မိုင်းတုန်း",
+    "eng_name": "Mongton",
+    "alias_name": "Mongton",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 305,
+    "name": "မိုင်းရယ်",
+    "eng_name": "Mongyai",
+    "alias_name": "Mongyai",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 306,
+    "name": "မိုင်းယန်း",
+    "eng_name": "Mongyang",
+    "alias_name": "Mongyang",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 307,
+    "name": "မိုင်းယောင်း",
+    "eng_name": "Mongyawng",
+    "alias_name": "Mongyawng",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 308,
+    "name": "မူဆယ်",
+    "eng_name": "Muse",
+    "alias_name": "Muse",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 309,
+    "name": "နားဖန်း",
+    "eng_name": "Nafan",
+    "alias_name": "nafan",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 310,
+    "name": "နမ့်ဆန်",
+    "eng_name": "Namhsan",
+    "alias_name": "Namhsan",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 311,
+    "name": "နမ္မတူ",
+    "eng_name": "Namtu",
+    "alias_name": "Namtu",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 312,
+    "name": "နမ့်ခမ်း",
+    "eng_name": "Nanhkan",
+    "alias_name": "Nanhkan",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 313,
+    "name": "နမ့်စန်",
+    "eng_name": "Nansang",
+    "alias_name": "Nansang",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 314,
+    "name": "နောင်ချို",
+    "eng_name": "Nawnghkio",
+    "alias_name": "Nawnghkio",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 315,
+    "name": "ညောင်ရွှေ",
+    "eng_name": "Nyaungshwe",
+    "alias_name": "Nyaungshwe",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 316,
+    "name": "ပန်ဆန်း",
+    "eng_name": "Pangsang",
+    "alias_name": "Pangsang",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 317,
+    "name": "ပန်ဝိုင်",
+    "eng_name": "Pangwaun",
+    "alias_name": "Pangwaun",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 318,
+    "name": "ဖယ်ခုံ",
+    "eng_name": "Pekon",
+    "alias_name": "Pekon",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 319,
+    "name": "ပင်းတယ",
+    "eng_name": "Pindaya",
+    "alias_name": "Pindaya",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 320,
+    "name": "ပင်လောင်း",
+    "eng_name": "Pinlaung",
+    "alias_name": "Pinlaung",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 321,
+    "name": "တာချီလိတ်",
+    "eng_name": "Tachileik",
+    "alias_name": "Tachileik",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 322,
+    "name": "တန့်ယန်း",
+    "eng_name": "Tangyan",
+    "alias_name": "Tangyan",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 323,
+    "name": "တောင်ကြီး",
+    "eng_name": "Taunggyi",
+    "alias_name": "Taunggyi",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 324,
+    "name": "ရပ်စောက်",
+    "eng_name": "Yaksauk",
+    "alias_name": "yaksauk",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 325,
+    "name": "ရွာငံ",
+    "eng_name": "Ywangan",
+    "alias_name": "Ywangan",
+    "division_id": 14,
+    "status": null
+  },
+  {
+    "id": 326,
+    "name": "ဘုတ်ပြင်း",
+    "eng_name": "Bokpyin",
+    "alias_name": "Bokpyin",
+    "division_id": 15,
+    "status": null
+  },
+  {
+    "id": 327,
+    "name": "ထားဝယ်",
+    "eng_name": "Dawei",
+    "alias_name": "Dawei",
+    "division_id": 15,
+    "status": null
+  },
+  {
+    "id": 328,
+    "name": "ကော့သောင်း",
+    "eng_name": "Kawthoung",
+    "alias_name": "Kawthoung",
+    "division_id": 15,
+    "status": null
+  },
+  {
+    "id": 329,
+    "name": "ကျွန်းစု",
+    "eng_name": "Kyunsu",
+    "alias_name": "Kyunsu",
+    "division_id": 15,
+    "status": null
+  },
+  {
+    "id": 330,
+    "name": "မြိတ်",
+    "eng_name": "Myeik",
+    "alias_name": "Myeik",
+    "division_id": 15,
+    "status": null
+  },
+  {
+    "id": 331,
+    "name": "ပူလော",
+    "eng_name": "Palaw",
+    "alias_name": "Palaw",
+    "division_id": 15,
+    "status": null
+  },
+  {
+    "id": 332,
+    "name": "တနင်္လာရီ",
+    "eng_name": "Tanintharyi",
+    "alias_name": "Tanintharyi",
+    "division_id": 15,
+    "status": null
+  },
+  {
+    "id": 333,
+    "name": "သရက်ချောင်း",
+    "eng_name": "Thayetchaung",
+    "alias_name": "Thayetchaung",
+    "division_id": 15,
+    "status": null
+  },
+  {
+    "id": 334,
+    "name": "ရေဖြူ",
+    "eng_name": "Yebyu",
+    "alias_name": "Yebyu",
+    "division_id": 15,
+    "status": null
+  }
+]

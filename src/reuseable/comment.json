@@ -1,0 +1,43 @@
+[
+  { "name": "One", "message": "Lorem ipsum", "show": false,
+    "replies": [
+      { "name": "Two", "message": "Lorem ipsum "},
+      { "name": "One", "message": "Lorem ipsum "},
+      { "name": "Three", "message": "Lorem ipsum "},
+      { "name": "One", "message": "Lorem ipsum "},
+      { "name": "Four", "message": "Lorem ipsum "},
+      { "name": "One", "message": "Lorem ipsum "},
+      { "name": "Five", "message": "Lorem ipsum "},
+      { "name": "One", "message": "Lorem ipsum "},
+      { "name": "Six", "message": "Lorem ipsum "}
+    ] 
+  },
+  { "name": "Two", "message": "Lorem ipsum", "show": false,
+    "replies": [
+      { "name": "One", "message": "Lorem ipsum "},
+      { "name": "Two", "message": "Lorem ipsum "},
+      { "name": "One", "message": "Lorem ipsum "},
+      { "name": "Three", "message": "Lorem ipsum "},
+      { "name": "One", "message": "Lorem ipsum "},
+      { "name": "Four", "message": "Lorem ipsum "},
+      { "name": "One", "message": "Lorem ipsum "},
+      { "name": "Five", "message": "Lorem ipsum "},
+      { "name": "One", "message": "Lorem ipsum "},
+      { "name": "Six", "message": "Lorem ipsum "}
+    ] 
+  },
+  { "name": "Three", "message": "Lorem ipsum", "show": false,
+    "replies": [
+      { "name": "Two", "message": "Lorem ipsum "},
+      { "name": "Two", "message": "Lorem ipsum "},
+      { "name": "One", "message": "Lorem ipsum "},
+      { "name": "Three", "message": "Lorem ipsum "},
+      { "name": "One", "message": "Lorem ipsum "},
+      { "name": "Four", "message": "Lorem ipsum "},
+      { "name": "One", "message": "Lorem ipsum "},
+      { "name": "Five", "message": "Lorem ipsum "},
+      { "name": "One", "message": "Lorem ipsum "},
+      { "name": "Six", "message": "Lorem ipsum "}
+    ] 
+  }
+]

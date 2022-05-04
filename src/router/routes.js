@@ -12,6 +12,9 @@ import Trans from '@/pages/transition.vue'
 import Dropdown from '@/pages/dropdown.vue'
 import Modal from '@/pages/modal.vue'
 import ChartJS from '@/pages/chartjs.vue'
+import InfiniteScroll from '@/pages/infinitescroll.vue'
+import Reaction from '@/pages/reaction.vue'
+import Accordion from '@/pages/accordion.vue'
 
 const routes = [
   { path: '/', component: Home },
@@ -28,6 +31,9 @@ const routes = [
   { path: '/dropdown', component: Dropdown },
   { path: '/modal', component: Modal },
   { path: '/chart-js', component: ChartJS },
+  { path: '/infinite-scroll', component: InfiniteScroll },
+  { path: '/reaction', component: Reaction },
+  { path: '/accordion', component: Accordion }
 ]  
 
 export default routes

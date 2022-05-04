@@ -14,16 +14,23 @@
       <span><router-link to="/dropdown">Dropdown</router-link></span>
       <span><router-link to="/modal">Modal</router-link></span>
       <span><router-link to="/chart-js">Chart JS</router-link></span>
+      <span><router-link to="/infinite-scroll">Infinite Scroll</router-link></span>
+      <span><router-link to="/reaction">Reaction</router-link></span>
+      <span><router-link to="/accordion">Accordion</router-link></span>
     </div>
-  <router-view></router-view>
+    <transition name="slide">
+      <router-view></router-view>
+    </transition>
 </div>
 </template>
 
 <script>
+import Transition from './pages/transition.vue'
 
 export default {
   name: 'App',
   components: {
+    Transition
   }
 }
 </script>
@@ -44,4 +51,12 @@ export default {
 .declaration span:last-child{
   margin-right: 0;
 }
+.slide-enter-active {
+  transition: all 0.5s ease;
+}
+.slide-enter-from {
+  transform: translateX(50px);
+  opacity: 0;
+}
+
 </style>
