@@ -1,8 +1,7 @@
 <template>
   <div>
-    <h1>Main Dropdown</h1>
+    <h1>Dropdown</h1>
     <hr/>
-    Child
     <dropdown-one/>
     <dropdown-two/>
   </div>

@@ -1,11 +1,20 @@
 <template>
-  <div>
-    <button @click="showDropdown()">Dropdown</button>
+  <h3>Dropdown One</h3>
+  <div class="menu">
+    <div @click="showDropdown()" class="menu_list">
+      <img src="@/assets/img_menu.png" alt="Menu">
+    </div>
     <Transition name="hello">
-      <ul v-if="show">
-        <li>List one</li>
-        <li>List Two</li>
-        <li>List Three</li>
+      <ul v-if="show" class="menu_item">
+        <li>
+          <p>One</p>
+        </li>
+        <li>
+          <p>Two</p>
+        </li>
+        <li>
+          <p>Three</p>
+        </li>
       </ul>
     </Transition>
   </div>

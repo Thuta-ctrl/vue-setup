@@ -14,12 +14,9 @@
 </template>
 
 <script>
-import DropdownOne from '@/components/dropdown/dropdownone.vue'
 export default {
   name: 'home-page',
-  components: {
-    'homedropdown': DropdownOne
-  },
+
   data() {
     return {
       lists: [

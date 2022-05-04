@@ -38,4 +38,10 @@ export default {
 .declaration {
   text-align: center;
 }
+.declaration span{
+  margin-right: 20px;
+}
+.declaration span:last-child{
+  margin-right: 0;
+}
 </style>

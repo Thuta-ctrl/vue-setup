@@ -7,3 +7,37 @@
 .hello-leave-to {
   opacity: 0;
 }
+.menu{
+  position: relative;
+}
+.menu_list{
+  width: 46px;
+  height: 27px;
+}
+.menu_list img{
+  width: 100%;
+  height: auto;
+  cursor: pointer;;
+}
+.menu_item{
+  position: absolute;
+  width: 210px;
+  background: gray;
+  border-radius: 10px;
+  padding: 10px 0;
+  margin: 10px 0 0 0;
+  z-index: 999;
+}
+.menu_item li{
+  list-style-type: none;
+}
+.menu_item li:hover{
+  cursor: pointer;
+  background: #02A0FA;
+}
+.menu_item li p{
+  font-size: 16px;
+  color: #fff;
+  padding: 10px 20px;
+  margin: 0;
+}
