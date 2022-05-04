@@ -1,4 +1,5 @@
 <template>
+<div>
   <h1>Modalbox</h1>
   <div id="modalBox" class="modal-vue">
     <!-- button show -->
@@ -14,9 +15,12 @@
           quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
     </div>
   </div>
+  <modal-one/>
+</div>
 </template>
 
 <script>
+import ModalOne from '@/components/modal/modal_one.vue'
 export default {
   name: 'chart-js',
   el: '#modalBox',
@@ -24,6 +28,9 @@ export default {
     return {
       showModal: false
     }
+  },
+  components: {
+    ModalOne
   }
 }
 </script>
