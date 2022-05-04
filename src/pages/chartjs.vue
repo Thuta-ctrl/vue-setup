@@ -1,7 +1,9 @@
 <template>
   <div>
     <h1>ChartJS</h1>
-    <canvas id="myChart" width="50" height="50"></canvas>
+    <div class="graph">
+      <canvas id="myChart" width="50" height="50"></canvas>
+    </div>
   </div>
 </template>
 
@@ -33,11 +35,10 @@ export default {
       datasets: [
         {
           label: "My First Dataset",
-          data: [65, 59, 75, 81, 56, 55, 40, 21, 35, 85, 45, 65],
-          fill: true,
+          data: [45, 90, 75, 100, 56, 55, 40, 25, 35, 85, 15, 65],
           backgroundColor: "rgba(255, 99, 132, 0.2)",
           borderColor: "rgb(255, 99, 132, 0.1)",
-          pointBackgroundColor: "rgb(255, 99, 132)",
+          pointBackgroundColor: "rgb(35, 163, 199)",
           pointBorderColor: "#fff",
           pointHoverBackgroundColor: "#fff",
           pointHoverBorderColor: "rgb(255, 99, 132)",
@@ -48,10 +49,23 @@ export default {
       type: "radar",
       data: data,
       options: {
+        scales: {
+          r: {
+            angleLines: {
+              color: "#B5E5F2",
+            },
+            grid: {
+              color: "#B5E5F2",
+            },
+            ticks: {
+              color: "#23A3C7",
+              weight: "800",
+            },
+          },
+        },
         elements: {
           line: {
             borderWidth: 3,
-            borderColor: "rgb(181, 229, 242)",
           },
         },
       },
@@ -61,4 +75,9 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+.graph {
+  width: 500px;
+  height: 500px;
+}
+</style>
