@@ -5,7 +5,7 @@
       <img src="@/assets/img_menu.png" alt="Menu">
     </div>
     <Transition name="hello">
-      <ul v-if="show" class="menu_item">
+      <ul v-if="show" class="menu_item" v-click-outside="onClickOutside">
         <li>
           <p>One</p>
         </li>
@@ -31,6 +31,9 @@ export default {
   methods: {
     showDropdown() {
       this.show = !this.show
+    },
+    onClickOutside() {
+      this.show = false
     }
   },
 }
