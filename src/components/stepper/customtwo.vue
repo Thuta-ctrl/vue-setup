@@ -55,7 +55,7 @@ export default {
       steps: [
         { 
           name: "1",
-          disabled: true,
+          disabled: false,
           active: true,
         },
         {
