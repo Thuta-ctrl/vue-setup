@@ -15,6 +15,8 @@ import ChartJS from '@/pages/chartjs.vue'
 import InfiniteScroll from '@/pages/infinitescroll.vue'
 import Reaction from '@/pages/reaction.vue'
 import Accordion from '@/pages/accordion.vue'
+import Stepper from '@/pages/stepper.vue'
+import ClickOutside from '@/pages/clickoutside.vue'
 
 const routes = [
   { path: '/', component: Home },
@@ -33,7 +35,9 @@ const routes = [
   { path: '/chart-js', component: ChartJS },
   { path: '/infinite-scroll', component: InfiniteScroll },
   { path: '/reaction', component: Reaction },
-  { path: '/accordion', component: Accordion }
+  { path: '/accordion', component: Accordion },
+  { path: '/stepper', component: Stepper },
+  { path: '/click-outside', component: ClickOutside }
 ]  
 
 export default routes

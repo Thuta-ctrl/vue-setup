@@ -17,6 +17,8 @@
       <span><router-link to="/infinite-scroll">Infinite Scroll</router-link></span>
       <span><router-link to="/reaction">Reaction</router-link></span>
       <span><router-link to="/accordion">Accordion</router-link></span>
+      <span><router-link to="/stepper">Stepper</router-link></span>
+      <span><router-link to="/click-outside">Click Outside</router-link></span>
     </div>
     <transition name="slide">
       <router-view></router-view>
