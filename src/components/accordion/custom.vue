@@ -41,6 +41,7 @@ export default {
       })
     },
     start(el) {
+      console.log(el.scrollHeight)
       el.style.height = el.scrollHeight + "px";
     },
     end(el) {

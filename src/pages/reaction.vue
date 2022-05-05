@@ -1,10 +1,8 @@
 <template>
   <div class="container">
     <div class="reaction">
-      <Transition @click="reaction">
-        <img src="@/assets/heart.png" v-if="!this.like" />
-        <img src="@/assets/heart-fill.png" v-else/>
-      </Transition>
+      <img src="@/assets/heart.png" v-if="!this.like" @click="reaction"/>
+      <img src="@/assets/heart-fill.png" v-else @click="reaction"/>
       <p class="reaction-count">{{ count }}</p>
     </div>
   </div>
@@ -43,18 +41,5 @@ export default {
     font-size: 30px;
     font-weight: bold;
   }
-  .v-enter-active {
-    transition: all 0.3s ease;
-  }
-  .v-leave-active {
-    transition: all 0.3s ease;
-  }
-  .v-enter-from {
-    transform: translate(-20px, 20px);
-    opacity: 0;
-  }
-  .v-leave-to {
-    transform: translateY(-20px, -20px);
-    opacity: 0;
-  }
+  
 </style>
