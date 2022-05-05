@@ -20,9 +20,11 @@
       <span><router-link to="/stepper">Stepper</router-link></span>
       <span><router-link to="/click-outside">Click Outside</router-link></span>
     </div>
-    <transition name="slide">
-      <router-view></router-view>
-    </transition>
+    <router-view v-slot="{ Component }">
+      <transition name="slide">
+        <component :is="Component" />
+      </transition>
+    </router-view>
 </div>
 </template>
 
