@@ -17,6 +17,7 @@ import Reaction from '@/pages/reaction.vue'
 import Accordion from '@/pages/accordion.vue'
 import Stepper from '@/pages/stepper.vue'
 import ClickOutside from '@/pages/clickoutside.vue'
+import Pagination from '@/pages/pagination.vue'
 
 const routes = [
   { path: '/', component: Home },
@@ -37,7 +38,8 @@ const routes = [
   { path: '/reaction', component: Reaction },
   { path: '/accordion', component: Accordion },
   { path: '/stepper', component: Stepper },
-  { path: '/click-outside', component: ClickOutside }
+  { path: '/click-outside', component: ClickOutside },
+  { path: '/pagination', component: Pagination }
 ]  
 
 export default routes
