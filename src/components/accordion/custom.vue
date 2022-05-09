@@ -4,7 +4,7 @@
     <div class="comment" v-for="(comment,index) in comments" :key="index">
       <div class="comment-username">{{ comment.name }}</div>
       <div class="comment-message">{{ comment.message }}
-          <div class="reply-symbol" :class="{ show: comment.show }" @click="showReply(index)">&#94; <span>Replies</span></div>
+          <div class="reply-symbol" :class="{ show: comment.show }" @click="showReply(index)"> <span>Replies</span></div>
       </div>
       
       <transition-group 
@@ -58,6 +58,7 @@ export default {
 }
 .comment {
   background-color: antiquewhite;
+  font-size: 20px;
   text-align: left;
   padding: 20px;
   margin: 5px;
@@ -69,25 +70,37 @@ export default {
   font-size: 12px;
 }
 .reply-symbol {
-  color: red;
+  color: #27C9AA;
   cursor: pointer;
-  padding-left: 40px;
-  padding-right: 0px;
-  font-size: 20px;
-  position: absolute;
-  left: 100px;
-  top: 43px;
+  font-size: 18px;
   transition: all 1s ease;
+  margin: 15px 0 0 28px;
+  position: relative;
 }
-.reply-symbol.show {
-  transform: rotate(180deg);
+.reply-symbol:after {
+  content: "";
+  position: absolute;
+  left: -28px;
+  top: 0;
+  width: 12px;
+  height: 12px;
+  border-top: 2px solid #34E0C0;
+  border-left: 2px solid #34E0C0;
+  transform: rotate(225deg);
+}
+.reply-symbol.show{
+   margin-bottom: 15px;
+}
+.reply-symbol.show:after{
+   top: 6px;
+   transform: rotate(45deg);
 }
 .replies {
   padding-left: 30px;
 }
 .accordion-enter-active,
 .accordion-leave-active {
-  transition: height 0.5s ease, opacity 0.3s ease;
+  transition: height 0.4s ease, opacity 0.5s ease;
   overflow: hidden;
 }
 
