@@ -10,9 +10,12 @@
       :break-view-text="'...'"
       :container-class="'pagination'"
       :first-button-text="'first button'"
-      :page-class="'page-item'"
+      :page-link-class="'page-item'"
+      :next-link-class="'page-item'"
+      :prev-link-class="'page-item'"
       :active-class="'active-page-item'"
       :disabled-class="'disable-page-item'"
+      :no-li-surround="true"
     >
     </my-paginate>
   </div>
@@ -24,6 +27,9 @@ export default {
   name: 'vue-paginate',
   components: {
     'my-paginate': Paginate,
+  },
+  methods: {
+    
   }
 }
 </script>
