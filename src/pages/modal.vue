@@ -20,7 +20,6 @@
 </template>
 
 <script>
-import ModalOne from '@/components/modal/modal_one.vue'
 export default {
   name: 'chart-js',
   el: '#modalBox',
@@ -28,9 +27,6 @@ export default {
     return {
       showModal: false
     }
-  },
-  components: {
-    ModalOne
   }
 }
 </script>
