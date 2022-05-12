@@ -41,7 +41,6 @@ export default {
           name: "3",
           disabled: false,
           active: false,
-          confirm: "Enviar formluario"
         },
       ],
       step: 1

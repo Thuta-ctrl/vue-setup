@@ -63,7 +63,7 @@ export default {
       })
       this.count = 10
       this.loading = false
-    }, 1000)
+    }, 3000)
   }
 }
 </script>
@@ -71,12 +71,11 @@ export default {
 <style scoped>
   .v-enter-active,
   .v-leave-active {
-    transition: all 2s cubic-bezier(0.075, 0.82, 0.165, 1);
+    transition: transform 1s linear;
   }
 
   .v-enter-from,
   .v-leave-to {
-    opacity: 0;
     transform: rotateY(60deg);
   }
   .container {
