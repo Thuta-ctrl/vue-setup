@@ -20,6 +20,7 @@
       <span><router-link to="/stepper">Stepper</router-link></span>
       <span><router-link to="/click-outside">Click Outside</router-link></span>
       <span><router-link to="/pagination">Pagination</router-link></span>
+      <span><router-link to="/day-month-year">Day Month Year</router-link></span>
     </div>
     <router-view v-slot="{ Component }">
       <transition name="slide">

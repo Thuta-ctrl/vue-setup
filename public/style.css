@@ -7,3 +7,7 @@ code {
   color: white;
   margin-top: 10px;
 }
+
+.dark {
+  background-color:black;
+}

@@ -18,6 +18,7 @@ import Accordion from '@/pages/accordion.vue'
 import Stepper from '@/pages/stepper.vue'
 import ClickOutside from '@/pages/clickoutside.vue'
 import Pagination from '@/pages/pagination.vue'
+import DayMonthYear from '@/pages/daymonthyear.vue'
 
 const routes = [
   { path: '/', component: Home },
@@ -39,7 +40,8 @@ const routes = [
   { path: '/accordion', component: Accordion },
   { path: '/stepper', component: Stepper },
   { path: '/click-outside', component: ClickOutside },
-  { path: '/pagination', component: Pagination }
+  { path: '/pagination', component: Pagination },
+  { path: '/day-month-year', component: DayMonthYear }
 ]  
 
 export default routes

@@ -1,29 +1,42 @@
 <template>
-  <div style="width: 500px; height: 500px">
-    <button @click="show">Show</button>
-    <div v-click-outside-custom="onClickOutside" v-show="modal">hello world</div>
+  <div>
+    <OnClickOutside @trigger="close" v-if="modal">
+      <div>
+        Click Outside of Me
+      </div>
+    </OnClickOutside>
+    <div>
+      <button @click="modal = !modal">Hello World</button>
+    </div>
+    <UseDark v-slot="{ isDark, toggleDark }">
+      <button @click="toggleDark()">
+        Is Dark: {{ isDark }}
+      </button>
+    </UseDark>
   </div>
 </template>
-
 <script>
+import { OnClickOutside, UseDark } from '@vueuse/components'
+import { ref } from '@vue/reactivity'
+
 export default {
   name: 'click-outside',
-  data() {
-    return {
-      modal: false
-    }
+  components: {
+    OnClickOutside,
+    UseDark
   },
-  methods: {
-    show() {
-      this.modal = true
-    },
-    onClickOutside() {
-      console.log('hi')
-    },
+  setup() {
+    const modal = ref()
+    const close = () => {
+      modal.value = false
+    }
+    
+    return {
+      modal,
+      close,
+    }
   }
 }
 </script>
 
-<style>
 
-</style>
