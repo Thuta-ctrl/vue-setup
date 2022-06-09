@@ -4,9 +4,8 @@
     <div class="comment" v-for="(comment,index) in comments" :key="index">
       <div class="comment-username">{{ comment.name }}</div>
       <div class="comment-message">{{ comment.message }}
-          <div class="reply-symbol" :class="{ show: comment.show }" @click="showReply(index)"> <span>Replies</span></div>
+        <div class="reply-symbol" :class="{ show: comment.show }" @click="showReply(index)"> <span>Replies</span></div>
       </div>
-      
       <transition-group 
         name="accordion"
         @enter="start"

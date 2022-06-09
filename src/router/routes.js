@@ -19,6 +19,10 @@ import Stepper from '@/pages/stepper.vue'
 import ClickOutside from '@/pages/clickoutside.vue'
 import Pagination from '@/pages/pagination.vue'
 import DayMonthYear from '@/pages/daymonthyear.vue'
+import Cart from '@/pages/cart.vue'
+import Video from '@/pages/video.vue'
+import Draggable from '@/pages/draggable.vue'
+import Calendar from '@/pages/calendar.vue'
 
 const routes = [
   { path: '/', component: Home },
@@ -41,7 +45,11 @@ const routes = [
   { path: '/stepper', component: Stepper },
   { path: '/click-outside', component: ClickOutside },
   { path: '/pagination', component: Pagination },
-  { path: '/day-month-year', component: DayMonthYear }
+  { path: '/day-month-year', component: DayMonthYear },
+  { path: '/cart', component: Cart },
+  { path: '/video', component: Video },
+  { path: '/draggable', component: Draggable },
+  { path: '/calendar', component: Calendar },
 ]  
 
 export default routes

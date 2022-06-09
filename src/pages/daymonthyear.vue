@@ -10,6 +10,10 @@
     <select v-model="year">
       <option v-for="n in years" :key="n">{{ n }}</option>
     </select>
+    
+    <div>
+      
+    </div>
   </div>
 </template>
 
@@ -24,7 +28,8 @@ export default {
       days_30: [4,9,11],
       days: [],
       months: [],
-      years: []
+      years: [],
+      showEmoji: false,
     }
   },
   methods: {

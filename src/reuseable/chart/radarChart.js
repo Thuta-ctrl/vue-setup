@@ -17,7 +17,7 @@ const radarChart = {
     ],
     datasets: [
       {
-        label: "My First Dataset",
+        label: "Radar Chart",
         data: [45, 90, 75, 100, 56, 55, 40, 25, 35, 85, 15, 65],
         backgroundColor: "rgba(255, 99, 132, 0.2)",
         borderColor: "rgb(255, 99, 132, 0.1)",
@@ -41,6 +41,11 @@ const radarChart = {
           color: "#23A3C7",
           weight: "800",
         },
+        pointLabels: {
+          font: {
+            size: 14
+          }
+        }
       },
     },
     elements: {
@@ -48,6 +53,14 @@ const radarChart = {
         borderWidth: 3,
       },
     },
+    onResize() {
+      if (window.innerWidth < 767) {
+        radarChart.options.scales.r.pointLabels.font.size = 18
+      } else {
+        radarChart.options.scales.r.pointLabels.font.size = 14
+      }
+    },
+    responsive: true
   },
 };
 

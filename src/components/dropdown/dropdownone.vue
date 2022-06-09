@@ -4,7 +4,7 @@
     <div @click="showDropdown()" class="menu_list">
       <img src="@/assets/img_menu.png" alt="Menu">
     </div>
-    <Transition name="hello">
+    <Transition>
       <ul v-if="show" class="menu_item" v-click-outside="onClickOutside">
         <li>
           <p>One</p>

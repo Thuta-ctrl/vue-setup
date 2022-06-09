@@ -8,15 +8,25 @@
 </template>
 
 <script setup>
-import { onMounted, reactive } from 'vue'
+import { onMounted } from 'vue'
 import Chart from "chart.js/auto";
 import radarChart from '@/reuseable/chart/radarChart'
-
-const data = reactive(radarChart)
-
+const data = radarChart
+var chart = null
+const onResize = () => {
+  if (window.innerWidth < 767) {
+    chart.data.datasets[0].borderColor = "red"
+    chart.options.scales.r.pointLabels.font.size = 18
+  } else {
+    chart.data.datasets[0].borderColor = "rgb(255, 99, 132, 0.1)"
+    chart.options.scales.r.pointLabels.font.size = 14
+  }
+  chart.update()
+}
 onMounted(() => {
   const ctx = document.getElementById('radar-chart');
-  new Chart(ctx, data);
+  chart = new Chart(ctx, data);
+  window.addEventListener('resize', onResize)
 }) 
 </script>
 
