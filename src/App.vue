@@ -23,6 +23,7 @@
       <span><router-link to="/day-month-year">Day Month Year</router-link></span>
       <span><router-link to="/draggable">Draggable</router-link></span>
       <span><router-link to="/calendar">Calendar</router-link></span>
+      <span><router-link to="/slider">Slider</router-link></span>
     </div>
     <router-view v-slot="{ Component }">
       <transition name="slide">

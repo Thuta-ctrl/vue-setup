@@ -82,6 +82,7 @@ onMounted(() => {
   display: none;
 }
 .in-next-month.is-not-in-month {
+  color: blue;
   display: none;
 }
 .vc-highlight {

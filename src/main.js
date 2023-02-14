@@ -8,15 +8,18 @@ import { faUserSecret } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import store from './store'
 import { SetupCalendar } from 'v-calendar';
+import { createHead } from '@vueuse/head'
 
 library.add(faUserSecret)
 
-const app = createApp(App);
+const app = createApp(App)
+const head = createHead()
 app.use(router)
 app.use(store)
 app.use(SetupCalendar, {})
 app.component('font-awesome-icon', FontAwesomeIcon)
 app.use(VueEasyLightbox)
 app.use(vClickOutside)
+app.use(head)
 app.mount('#app')
 

@@ -2,16 +2,15 @@
   <draggable 
     v-model="list" 
     group="people" 
-    tag="transition-group" :component-data="{name:'fade', tag:'table'}"
+    tag="transition-group" 
+    :component-data="{name:'fade', tag:'div'}"
     @start="start" 
     @end="end"
     item-key="id">
       <template #item="{element}">
-        <tr>
-          <td>{{ element.id }}</td>
-          <td>{{ element.name }}</td>
-          <td>{{ element.position }}</td>
-        </tr>
+        <div class="ele">
+          {{ element.name }}
+        </div>
       </template>
   </draggable>
 </template>
@@ -19,6 +18,10 @@
 <script setup>
 import { ref } from 'vue'
 import draggable from 'vuedraggable'
+import { useHead } from '@vueuse/head'
+useHead({
+  title: 'アンケート編集-アンケート一覧',
+})
 const drag = ref(false)
 const list = ref([
   { id: 1, position: 1, name: 'Monkey' },
@@ -45,5 +48,17 @@ td {
 }
 table {
   border: 1px solid grey;
+}
+.ele.sortable-drag {
+  background-color: red;
+  max-width: 80%;
+  opacity: 0.1 !important;
+}
+.ele.sortable-ghost {
+  background-color: green;
+}
+
+div {
+  border: 1px solid red;
 }
 </style>

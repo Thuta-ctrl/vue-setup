@@ -23,6 +23,7 @@ import Cart from '@/pages/cart.vue'
 import Video from '@/pages/video.vue'
 import Draggable from '@/pages/draggable.vue'
 import Calendar from '@/pages/calendar.vue'
+import Slider from '@/pages/slider.vue'
 
 const routes = [
   { path: '/', component: Home },
@@ -50,6 +51,7 @@ const routes = [
   { path: '/video', component: Video },
   { path: '/draggable', component: Draggable },
   { path: '/calendar', component: Calendar },
+  { path: '/slider', component: Slider }
 ]  
 
 export default routes
